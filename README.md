@@ -2,7 +2,7 @@
 
 Welcome to my GitHub!
 
-I’m a **Data Analyst & Aspiring BI Developer** with a strong foundation in financial services and a passion for turning raw data into powerful business insights.
+I’m a **Data Analyst & Aspiring BI Architect** with a strong foundation in financial services and a passion for turning raw data into powerful business insights.
 
 ---
 
