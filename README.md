@@ -10,9 +10,9 @@ I’m a **Data Analyst & Aspiring BI Architect** with a strong foundation in fin
 
 - 🎓 Master's in Financial Technology, University of Surrey
 - 🏦 5+ years in banking (business development, operations, MIS reporting)   
-- 📊 **Top Skills:** Data Analysis, Data Modelling, Dashboard Design, Demand Mapping, Data Storytelling, Financial Services Expertise  
+- 📊 **Top Skills:** Data Analysis, Data Modelling, Dashboard Design, Financial Reporting, Data Storytelling, Financial Services Expertise  
 - 🛠️ **Tech Stack:** SQL/plpgsql, Python, Tableau, Power BI, Postgres (pgAdmin), MySQL  
-- 🎯 **Current Goals:** Seeking roles as a BI Analyst, MIS Analyst, or Junior BI Developer  
+- 🎯 **Current Goals:** Seeking roles as a BI Analyst, Financial Analyst, or BI Developer  
 
 ---
 
